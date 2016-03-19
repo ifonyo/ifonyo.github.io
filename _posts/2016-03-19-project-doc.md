@@ -28,6 +28,8 @@ title: 项目后台接口说明文档
 	> {"result":返回码,"message":"错误信息"}
 	eg. {"result":0,"message":"success"}
 	注销
+	* request
+	> {"action":"logout"}
 	
 ## 用户信息
 	获取用户信息
